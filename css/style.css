@@ -514,10 +514,10 @@
    }
    
    .social-icon-link {
-     margin-right: 4px;
-     margin-left: 4px;
-     padding: 3px;
-     opacity: 0.9;
+     margin-right: 8px;
+     margin-left: 8px;
+     padding: 0px;
+     opacity: 0.8;
      -webkit-transition: opacity 200ms ease;
      transition: opacity 200ms ease;
    }
@@ -535,10 +535,9 @@
      background-color: #d4d4d4;
    }
    
-   .footer {
-     padding-top: 41px;
-     padding-bottom: 41px;
-     border-top: 1px solid rgba(0, 0, 0, .13);
+   .social-bar {
+     padding-top: 15px;
+     padding-bottom: 15px;
      text-align: center;
    }
    
@@ -829,7 +828,7 @@
      -webkit-transition: opacity 200ms ease;
      transition: opacity 200ms ease;
      font-family: Montserrat, sans-serif;
-     color: #303030;
+     color: #000;
      text-decoration: none;
    }
    
@@ -843,6 +842,7 @@
      font-size: 53px;
      line-height: 57px;
      letter-spacing: 1px;
+     opacity: 0.8;
    }
    
    .blog-name:hover {
