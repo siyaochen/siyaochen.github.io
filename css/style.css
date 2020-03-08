@@ -725,7 +725,7 @@
    
    .byline-wrapper {
      margin-bottom: 25px;
-     color: #ccc;
+     color: rgb(180, 180, 180);
      font-size: 12px;
      line-height: 18px;
      text-align: center;
@@ -761,7 +761,7 @@
      display: block;
      width: 65%;
      margin-right: auto;
-     margin-bottom: 52px;
+     margin-bottom: 25px;
      margin-left: auto;
      font-size: 14px;
      line-height: 22px;
@@ -857,7 +857,7 @@
      -webkit-transition: color 200ms ease;
      transition: color 200ms ease;
      font-family: Montserrat, sans-serif;
-     color: #303030;
+     color: #9e9e9e;
      font-size: 11px;
      line-height: 18px;
      text-align: center;
@@ -867,13 +867,13 @@
    }
    
    .link-to-page:hover {
-     color: #d4d4d4;
+     color: #505050;
    }
    
    .blog-headline {
      display: block;
      font-family: Montserrat, sans-serif;
-     font-size: 20px;
+     font-size: 28px;
      line-height: 25px;
      font-weight: 400;
      text-align: center;
